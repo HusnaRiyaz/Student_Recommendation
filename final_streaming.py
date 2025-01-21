@@ -19,7 +19,7 @@ def load_data():
 
 # Task 1: Task-specific content for task 1
 def task1(historical_df):
-    st.subheader("Task 1: Task Details")
+    st.subheader("Task 1: Average Based Analysis")
      # Loading data
     historical_df = load_data()
     if historical_df is None:
