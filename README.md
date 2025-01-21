@@ -29,13 +29,13 @@
 1) The student performed well in the below topics:
    1) Human Health and Disease
    2) Microbes in Human Welfare
-  # Suggestions:
+  ## Suggestions:
     Reinforce your knowledge in these topics. Continue practicing to maintain your high performance.
     
 2) The analysis reveals that the areas where the student needs to improve are:
    1) Reproducive Health
    2) Human Reproduction
    3) Principles of Inheritance and Variation
-  # Suggestions:
+  ## Suggestions:
     Focus on improving these topics. Consider reviewing the foundational concepts and doing extra practice.
   
